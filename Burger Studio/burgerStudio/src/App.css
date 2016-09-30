@@ -1,5 +1,26 @@
 .App {
   text-align: center;
+  border-width:5px;
+  border-color:black;
+}
+
+.sideMenu{
+  height:100vh;
+  width:20%;
+  border-width: 5px;
+  border-color: black;
+  border-style: dashed;
+  font-style: italic;
+  float: left
+}
+
+.buildArea{
+  height:100vh;
+  width:30%%;
+  border-width: 5px;
+  border-color: red;
+  border-style: solid;
+  float: right
 }
 
 .App-logo {
